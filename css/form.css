@@ -1,0 +1,22 @@
+
+/* form css  */
+.form{
+    height: 400px;
+}
+.input-box{
+margin: 12px;
+}
+.user-details{
+    margin: 50px;
+}
+.details{
+    font-size: 20px;
+}
+.details input{
+    padding: 3px 5px ;
+}
+.button input {
+    background-color: #b52e2e;
+    margin: 0px;
+    padding: 12px;
+}
